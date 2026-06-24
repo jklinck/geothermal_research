@@ -1,7 +1,7 @@
 # geothermal_research
 
 This repo contains the INGENIOUS dataset along with a jupyter notebook for data exploration. 
-There are alos some setup files for running a poetry environment with instructions below. 
+There are also some setup files for running a poetry environment with instructions below. 
 
 ## Data
 
