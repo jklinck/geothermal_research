@@ -1,5 +1,12 @@
 # geothermal_research
 
+This repo contains the INGENIOUS dataset along with a jupyter notebook for data exploration. 
+There are alos some setup files for running a poetry environment with instructions below. 
+
+## Data
+
+Dataset provided by the [Geothermal Data Repository (GDR)](https://gdr.openei.org/submissions/1391).
+
 ## Setup
 
 1. Install Poetry globally (skip if already installed):
