@@ -5,6 +5,7 @@ This repo contains the INGENIOUS dataset and the GeoDAWN dataset along with a ju
 ## Data
 
 INGENIOUS dataset provided by the [Geothermal Data Repository (GDR)](https://gdr.openei.org/submissions/1391).
+
 GeoDAWN dataset provided by the [USGS](https://www.sciencebase.gov/catalog/item/657e1d85d34e23d3533209f7).
 
 ## Setup
