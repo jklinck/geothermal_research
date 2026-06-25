@@ -1,11 +1,11 @@
 # geothermal_research
 
-This repo contains the INGENIOUS dataset along with a jupyter notebook for data exploration. 
-There are also some setup files for running a poetry environment with instructions below. 
+This repo contains the INGENIOUS dataset and the GeoDAWN dataset along with a jupyter notebooks for data exploration. There are also some setup files for running a poetry environment with instructions below. 
 
 ## Data
 
-Dataset provided by the [Geothermal Data Repository (GDR)](https://gdr.openei.org/submissions/1391).
+INGENIOUS dataset provided by the [Geothermal Data Repository (GDR)](https://gdr.openei.org/submissions/1391).
+GeoDAWN dataset provided by the [USGS](https://www.sciencebase.gov/catalog/item/657e1d85d34e23d3533209f7).
 
 ## Setup
 
