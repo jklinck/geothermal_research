@@ -9,7 +9,7 @@ INGENIOUS dataset provided by the [Geothermal Data Repository (GDR)](https://gdr
 GeoDAWN dataset provided by the [USGS](https://www.sciencebase.gov/catalog/item/657e1d85d34e23d3533209f7).
 
 ## Setup with conda
-1. Use the reqiurements.txt file
+1. run `pip install -r requirements.txt`
 
 ## Setup with poetry
 
