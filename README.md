@@ -35,4 +35,4 @@ poetry install
 poetry run python -m ipykernel install --user --name=ingenious --display-name "Python (ingenious)"
 ```
 
-4. Open `main.ipynb` in VS Code and select **Python (ingenious)** as the kernel.
+4. In VS Code in the root direcoty or GeoDAWN_tiffs/22103_area1_tiffs or GeoDAWN_tiffs/22103_area2_tiffs and open `main.ipynb` . Each of them have a `main.ipynb` for data exploration. 
